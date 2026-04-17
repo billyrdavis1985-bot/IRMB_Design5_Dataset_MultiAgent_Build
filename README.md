@@ -3,15 +3,7 @@
 
 <img width="2816" height="1536" alt="Gemini_Generated_Image_ewa1htewa1htewa1" src="https://github.com/user-attachments/assets/8d9ae268-3f7c-42a9-8115-4ae472e996c1" />
 
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build)
-[![Articles](https://img.shields.io/badge/Articles-400-blue)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build)
-[![Categories](https://img.shields.io/badge/Categories-4-purple)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build)
-[![Balance](https://img.shields.io/badge/Balance-50%2F50-teal)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build)
-[![Ambiguity](https://img.shields.io/badge/Ambiguity_avg-0.847-orange)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build)
-[![Pre-Registered](https://img.shields.io/badge/Pre--Registered-V2-blue)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build/blob/main/preregistration/design5_preregistration_V2.json)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build/blob/main/Design_5_Dataset.ipynb)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build/blob/main/LICENSE)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qp0XSii1Nn_ZqR6prdMMEoToYGOGo0Ai)
 **Researcher:** Billy R. Davis Jr. | Independent
 **Program:** Infinite Resilience Matrix Bridge (IRMB)
 **Location:** Lenoir, North Carolina
