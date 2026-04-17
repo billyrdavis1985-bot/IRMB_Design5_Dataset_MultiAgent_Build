@@ -9,7 +9,7 @@
 [![Balance](https://img.shields.io/badge/Balance-50%2F50-teal)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build)
 [![Ambiguity](https://img.shields.io/badge/Ambiguity_avg-0.847-orange)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build)
 [![Pre-Registered](https://img.shields.io/badge/Pre--Registered-V2-blue)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build/blob/main/preregistration/design5_preregistration_V2.json)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/blob/main/Design_5_Dataset.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build/blob/main/IRMB_Phase7G_Design5_Dataset_Build.ipynb)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/billyrdavis1985-bot/IRMB_Phase7G_Design5_Dataset_Build/blob/main/LICENSE)
 
 **Researcher:** Billy R. Davis Jr. | Independent
